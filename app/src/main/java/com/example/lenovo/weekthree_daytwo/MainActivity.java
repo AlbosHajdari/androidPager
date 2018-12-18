@@ -22,6 +22,9 @@ public class MainActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        System.out.println("commitNr1");
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
