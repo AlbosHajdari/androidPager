@@ -11,7 +11,6 @@ import android.widget.TextView;
 
 public class Fragment1 extends Fragment {
     TextView textView;
-    System.out.println("CommitNr3.1");
 
     @Nullable
     @Override
